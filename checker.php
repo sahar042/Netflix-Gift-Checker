@@ -1,6 +1,6 @@
 <?php
 //Coded by MixBanana.
-//Linkedin profile: https://linkedin.com/in/sahar-shlichove-854579185/
+//Linkedin profile: https://www.linkedin.com/in/sahar-shlichove-%D7%A1%D7%94%D7%A8-%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%91-854579185/
 
 $code = $_GET["code"];
 $proxies = $_GET["proxy"];
